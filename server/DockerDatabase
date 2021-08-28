@@ -1,0 +1,4 @@
+FROM postgres:latest
+ENV POSTGRES_USER antrian-online
+ENV POSTGRES_PASSWORD xxantrian
+ENV POSTGRES_DB antrian-online
